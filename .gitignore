@@ -1,0 +1,7 @@
+#Editor direct. & files
+.idea
+.vscode
+*.ntvs*
+*.njsproj*
+*.sln
+*.sw?
