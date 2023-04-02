@@ -1,4 +1,4 @@
-## <p align='center'>piedpiper</p>
+## <p align='center'>Piedpiper</p>
 
 <p align='center'>this simple page is made for educational purposes</p>
 
